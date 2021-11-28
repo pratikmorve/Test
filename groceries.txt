@@ -1,8 +1,0 @@
-#########
-Groceries
-#########
-
-- 4 tomatoes
-- 6 shallots
-- 5 fennel bulb
-- couple of seed potatos
